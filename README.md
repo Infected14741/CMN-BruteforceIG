@@ -13,6 +13,6 @@ I love You.... ^_^
 
 dari Infected untuk putri yang selalu ada di hatiku...
 
-#Jomblo Yang Gak Terima Sini
+# Jomblo Yang Gak Terima Sini
 
 Kita Baku Hantam
