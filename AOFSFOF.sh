@@ -9,7 +9,7 @@ pkg install python2
 pkg install python python2
 pkg install python3
 pkg install git
-git clone : https://github.com/Infected14741/f.git
+git clone https://github.com/Infected14741/f.git
 clear
 cd f
 unzip f.zip
